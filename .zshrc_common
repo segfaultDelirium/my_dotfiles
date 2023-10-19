@@ -1,0 +1,5 @@
+ZSH_THEME="gnzh"
+
+alias l="ls -la"
+alias d="nohup dolphin . &"
+alias rm="trash"

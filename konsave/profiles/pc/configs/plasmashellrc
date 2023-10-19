@@ -1,0 +1,21 @@
+[FileDialogSize]
+2 screens: Height=780
+2 screens: Width=1300
+
+[KFileDialog Settings]
+Recent Files[$e]=Projekt-bez-tytulu-20_optimized.zip,file:$HOME/Downloads/Skull-Island-v2.3.0.apk,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 7.2： Monoidal Categories\\, Functoriality of ADTs\\, Profunctors [wtIKd8AhJOc].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 7.1： Functoriality\\, bifunctors [pUQ0mmbIdxs].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 6.2： Functors in programming [EO86S2EZssc].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 6.1： Functors [FyoQjkwsy7o].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 5.2： Algebraic data types [w1WMykh7AxA].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 5.1： Coproducts\\, sum types [LkIRsNj9T-8].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 4.2： Products [Bsdl_NKbNnU].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 4.1： Terminal and initial objects [zer1aFgj4aU].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 3.2： Kleisli category [i9CU4CuHADQ].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 3.1： Examples of categories\\, orders\\, monoids [aZjhqkD6k6w].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 2.2： Monomorphisms\\, simple types [NcT7CGPICzo].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 2.1： Functions\\, epimorphisms [O2lZkr-aAqk].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 1.2： What is a category？ [p54Hd7AmVFU].opus,file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/Category Theory 1.1： Motivation and Philosophy [I8LbkfSSR58].opus
+Recent URLs[$e]=file:///hdd0/1/0warm_data/magazyny/22magazyn/podcasts/,file:///hdd0/1/0warm_data/studia/mgr/1semestr/r/r_systemy_rownolegle_i_rozproszone/,file:$HOME/Downloads/,file:///hdd0/1/0warm_data/studia/mgr/1semestr/systemy_rownolegle_i_rozproszone/wyklady/pdfs/,file:///hdd0/1/0warm_data/pictures/wallpapers/dark/,file:$HOME/,file:$HOME/Documents/,file:///hdd0/1/0warm_data/studia/mgr/1semestr/r/r_sieci_neuronowe/,trash:/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+2 screens: Height=529
+2 screens: Width=410
+
+[PlasmaTransientsConfig]
+PreloadWeight=18
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=66
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js
