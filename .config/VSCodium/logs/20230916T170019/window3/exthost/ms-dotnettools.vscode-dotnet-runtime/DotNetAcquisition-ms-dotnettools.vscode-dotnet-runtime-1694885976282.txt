@@ -1,0 +1,85 @@
+9/16/2023, 7:39:47 PM DotnetAcquisitionStatusRequested
+7.0
+390da8ca1cfee2ea2a23052cccf398a432a2e6f0021a8a548672fa7588875248
+
+9/16/2023, 7:39:47 PM WebRequestSent
+https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
+
+9/16/2023, 7:39:48 PM DotnetVersionResolutionCompleted
+7.0
+7.0.11
+
+9/16/2023, 7:39:48 PM DotnetAcquisitionStatusUndefined
+7.0.11
+
+9/16/2023, 7:39:48 PM DotnetCommandSucceeded
+acquireRuntimeStatus
+
+9/16/2023, 7:39:48 PM DotnetRuntimeAcquisitionStarted
+390da8ca1cfee2ea2a23052cccf398a432a2e6f0021a8a548672fa7588875248
+
+9/16/2023, 7:39:48 PM DotnetAcquisitionRequested
+7.0
+390da8ca1cfee2ea2a23052cccf398a432a2e6f0021a8a548672fa7588875248
+
+9/16/2023, 7:39:48 PM WebRequestSent
+https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
+
+9/16/2023, 7:39:48 PM DotnetVersionResolutionCompleted
+7.0
+7.0.11
+
+9/16/2023, 7:39:48 PM DotnetAcquisitionStarted
+7.0.11
+390da8ca1cfee2ea2a23052cccf398a432a2e6f0021a8a548672fa7588875248
+
+9/16/2023, 7:39:48 PM WebRequestSent
+https://dot.net/v1/dotnet-install.sh
+
+9/16/2023, 7:39:51 PM DotnetFileWriteRequestEvent
+Request to write
+2023-09-16T17:39:51.755Z
+94b8b3b808d5505f4f94dab9f6d9667b70468702517a2137ff1dc6bf7125bfce
+
+9/16/2023, 7:39:51 PM DotnetFileWriteRequestEvent
+File did not exist upon write request.
+2023-09-16T17:39:51.755Z
+94b8b3b808d5505f4f94dab9f6d9667b70468702517a2137ff1dc6bf7125bfce
+
+9/16/2023, 7:39:51 PM DotnetLockAttemptingAcquireEvent
+Lock Acqusition request to begin.
+2023-09-16T17:39:51.755Z
+65f73449da1b4d3408a847ee95712c638ec2ff478679bb393bbf8e6f08af76c4
+94b8b3b808d5505f4f94dab9f6d9667b70468702517a2137ff1dc6bf7125bfce
+
+9/16/2023, 7:39:51 PM DotnetLockAcquiredEvent
+Lock Acquired.
+2023-09-16T17:39:51.758Z
+65f73449da1b4d3408a847ee95712c638ec2ff478679bb393bbf8e6f08af76c4
+94b8b3b808d5505f4f94dab9f6d9667b70468702517a2137ff1dc6bf7125bfce
+
+9/16/2023, 7:39:51 PM DotnetFileWriteRequestEvent
+File content needed to be updated.
+2023-09-16T17:39:51.760Z
+94b8b3b808d5505f4f94dab9f6d9667b70468702517a2137ff1dc6bf7125bfce
+
+9/16/2023, 7:39:51 PM DotnetLockReleasedEvent
+Lock about to be released.
+2023-09-16T17:39:51.760Z
+65f73449da1b4d3408a847ee95712c638ec2ff478679bb393bbf8e6f08af76c4
+94b8b3b808d5505f4f94dab9f6d9667b70468702517a2137ff1dc6bf7125bfce
+
+9/16/2023, 7:39:51 PM DotnetInstallScriptAcquisitionCompleted
+
+9/16/2023, 7:40:02 PM DotnetAcquisitionCompleted
+7.0.11
+/home/coean/.config/VSCodium/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/7.0.11/dotnet
+
+9/16/2023, 7:40:02 PM DotnetInstallationValidated
+7.0.11
+
+9/16/2023, 7:40:02 PM DotnetCommandSucceeded
+acquire
+
+9/16/2023, 7:40:03 PM DotnetCommandSucceeded
+ensureDependencies

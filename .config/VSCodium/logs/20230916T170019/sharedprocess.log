@@ -1,0 +1,17 @@
+2023-09-16 19:40:30.673 [info] Getting Manifest... carlos-algms.make-task-provider
+2023-09-16 19:40:31.032 [info] Installing extension: carlos-algms.make-task-provider
+2023-09-16 19:40:31.900 [info] Extension signature verification is not done: carlos-algms.make-task-provider
+2023-09-16 19:40:31.920 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/carlos-algms.make-task-provider-2.4.2-universal: carlos-algms.make-task-provider
+2023-09-16 19:40:31.925 [info] Renamed to /home/coean/.vscode-oss/extensions/carlos-algms.make-task-provider-2.4.2-universal
+2023-09-16 19:40:31.925 [info] Extracting extension completed. carlos-algms.make-task-provider
+2023-09-16 19:40:31.932 [info] Extension installed successfully: carlos-algms.make-task-provider
+2023-09-17 07:39:42.330 [info] Getting Manifest... ionide.ionide-fsharp
+2023-09-17 07:39:43.213 [info] Installing extension: ionide.ionide-fsharp
+2023-09-17 07:39:43.389 [info] Getting Manifest... muhammad-sammy.csharp
+2023-09-17 07:39:43.651 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2023-09-17 07:40:10.382 [info] Extension signature verification is not done: ionide.ionide-fsharp
+2023-09-17 07:40:11.239 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.12.0-universal: ionide.ionide-fsharp
+2023-09-17 07:40:11.251 [info] Renamed to /home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.12.0-universal
+2023-09-17 07:40:11.252 [info] Extracting extension completed. ionide.ionide-fsharp
+2023-09-17 07:40:11.259 [info] Extension installed successfully: ionide.ionide-fsharp
+2023-09-17 07:40:11.262 [info] Marked extension as uninstalled ionide.ionide-fsharp-7.11.0-universal

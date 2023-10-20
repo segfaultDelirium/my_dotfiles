@@ -1,0 +1,9 @@
+[07:40:35 ERROR] [LanguageService] Error starting F# language server: % [Error: Could not find 'dotnet'
+	at /home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.12.0-universal/fsharp.js:2:698425
+	at /home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.12.0-universal/fsharp.js:2:698449
+	at async y._activate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7862)
+	at async y._waitForDepsThenActivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7804)
+	at async y._initialize (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7168)]
+[07:40:35 ERROR] [Main] Error activating FSAC: Error: Could not find 'dotnet'
+[07:40:35 DEBUG] [Main] Activating features
+[07:40:35 ERROR] [Main] Error loading projects: TypeError: Cannot read properties of null (reading 'Found')

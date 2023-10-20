@@ -1,0 +1,18 @@
+2023-09-16 20:19:33.944 [info] Log level: Info
+2023-09-16 20:19:33.944 [info] Validating found git in: "git"
+2023-09-16 20:19:33.944 [info] Using git "2.42.0" from "git"
+2023-09-16 20:19:33.944 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-16 20:19:33.951 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-09-16 20:19:33.954 [info] Open repository: /home/coean/0/dev/rust/szkolenie/rust1_try2
+2023-09-16 20:19:33.969 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-16 20:19:33.970 [info] > git config --get commit.template [6ms]
+2023-09-16 20:19:33.977 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-16 20:19:33.983 [info] > git status -z -uall [1ms]
+2023-09-16 20:19:33.994 [info] > git config --get commit.template [3ms]
+2023-09-16 20:19:34.005 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-16 20:19:34.011 [info] > git status -z -uall [1ms]
+2023-09-16 20:19:34.505 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-16 20:19:38.937 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-16 20:19:39.936 [info] > git config --get commit.template [4ms]
+2023-09-16 20:19:39.937 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-16 20:19:39.942 [info] > git status -z -uall [1ms]

@@ -1,0 +1,15 @@
+[ERROR rust_analyzer::main_loop] FetchWorkspaceError:
+rust-analyzer failed to load workspace: Failed to load the project at /home/coean/0/dev/rust/szkolenie/rust1/Cargo.toml: Failed to read Cargo metadata from Cargo.toml file /home/coean/0/dev/rust/szkolenie/rust1/Cargo.toml, Some(Version { major: 1, minor: 72, patch: 0 }): Failed to run `cd "/home/coean/0/dev/rust/szkolenie/rust1" && "cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/coean/0/dev/rust/szkolenie/rust1/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: `cargo metadata` exited with an error: error: failed to parse manifest at `/home/coean/0/dev/rust/szkolenie/rust1/Cargo.toml`
+
+Caused by:
+  could not parse input as TOML
+
+Caused by:
+  TOML parse error at line 9, column 1
+    |
+  9 | <<<<<<< HEAD
+    | ^
+  invalid key
+
+
+[ERROR flycheck] Flycheck failed to run the following command: CommandHandle { program: "cargo", arguments: ["check", "--workspace", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/coean/0/dev/rust/szkolenie/rust1/Cargo.toml", "--all-targets"], current_dir: Some("/home/coean/0/dev/rust/szkolenie/rust1") }

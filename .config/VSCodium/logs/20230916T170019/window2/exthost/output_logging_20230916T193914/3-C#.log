@@ -1,0 +1,7 @@
+Installing C# dependencies...
+Platform: linux, x86_64, name=manjaro, version=unknown
+
+Downloading package '.NET Core Debugger (linux / x64)' (3419 KB).................... Done!
+Installing package '.NET Core Debugger (linux / x64)'
+
+Downloading package 'Razor Language Server (Linux / x64)' (50101 KB)............

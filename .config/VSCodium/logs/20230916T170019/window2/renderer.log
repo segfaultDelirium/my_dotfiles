@@ -1,0 +1,6 @@
+2023-09-16 19:39:17.074 [info] [perf] Render performance baseline is 22ms
+2023-09-16 19:39:17.328 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-16 19:39:17.679 [error] [Extension Host] (node:225250) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-09-16 19:39:26.673 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-16 19:39:29.245 [info] [perf] Render performance baseline is 23ms

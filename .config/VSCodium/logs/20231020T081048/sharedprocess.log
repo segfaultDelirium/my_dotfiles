@@ -1,0 +1,87 @@
+2023-10-20 08:10:54.876 [info] Getting Manifest... asvetliakov.vscode-neovim
+2023-10-20 08:10:54.878 [info] Getting Manifest... elixir-lsp.elixir-ls
+2023-10-20 08:10:54.879 [info] Getting Manifest... ionide.ionide-fsharp
+2023-10-20 08:10:54.880 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2023-10-20 08:10:54.880 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-10-20 08:10:54.881 [info] Getting Manifest... serayuzgur.crates
+2023-10-20 08:10:55.689 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime
+2023-10-20 08:10:55.707 [info] Installing extension: elixir-lsp.elixir-ls
+2023-10-20 08:10:55.711 [info] Installing extension: serayuzgur.crates
+2023-10-20 08:10:55.745 [info] Installing extension: asvetliakov.vscode-neovim
+2023-10-20 08:10:55.806 [info] Installing extension: rust-lang.rust-analyzer
+2023-10-20 08:10:55.829 [info] Installing extension: ionide.ionide-fsharp
+2023-10-20 08:10:56.221 [info] Getting Manifest... muhammad-sammy.csharp
+2023-10-20 08:10:56.607 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2023-10-20 08:10:56.640 [info] Waiting for already requested installing extension ms-dotnettools.vscode-dotnet-runtime ionide.ionide-fsharp
+2023-10-20 08:10:56.977 [info] Extension signature verification is not done: serayuzgur.crates
+2023-10-20 08:10:56.993 [info] Extension signature verification is not done: elixir-lsp.elixir-ls
+2023-10-20 08:10:56.996 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/serayuzgur.crates-0.6.3-universal: serayuzgur.crates
+2023-10-20 08:10:56.999 [info] Renamed to /home/coean/.vscode-oss/extensions/serayuzgur.crates-0.6.3-universal
+2023-10-20 08:10:57.000 [info] Extracting extension completed. serayuzgur.crates
+2023-10-20 08:10:57.006 [info] Extension installed successfully: serayuzgur.crates
+2023-10-20 08:10:57.008 [info] Marked extension as uninstalled serayuzgur.crates-0.6.2-universal
+2023-10-20 08:10:57.023 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/elixir-lsp.elixir-ls-0.17.1-universal: elixir-lsp.elixir-ls
+2023-10-20 08:10:57.025 [info] Renamed to /home/coean/.vscode-oss/extensions/elixir-lsp.elixir-ls-0.17.1-universal
+2023-10-20 08:10:57.026 [info] Extracting extension completed. elixir-lsp.elixir-ls
+2023-10-20 08:10:57.031 [info] Extension installed successfully: elixir-lsp.elixir-ls
+2023-10-20 08:10:57.032 [info] Marked extension as uninstalled elixir-lsp.elixir-ls-0.16.0-universal
+2023-10-20 08:10:57.080 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36019)
+    at i (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36159)
+    at t.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47264)
+    at t.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:37859)
+    at async p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20678)
+    at async K.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12660)
+2023-10-20 08:10:57.358 [info] Extension signature verification is not done: ms-dotnettools.vscode-dotnet-runtime
+2023-10-20 08:10:57.383 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-1.8.1-universal: ms-dotnettools.vscode-dotnet-runtime
+2023-10-20 08:10:57.384 [info] Renamed to /home/coean/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-1.8.1-universal
+2023-10-20 08:10:57.386 [info] Extracting extension completed. ms-dotnettools.vscode-dotnet-runtime
+2023-10-20 08:10:57.399 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime
+2023-10-20 08:10:57.400 [info] Finished waiting for already requested installing extension ms-dotnettools.vscode-dotnet-runtime ionide.ionide-fsharp
+2023-10-20 08:10:57.401 [info] Marked extension as uninstalled ms-dotnettools.vscode-dotnet-runtime-1.7.3-universal
+2023-10-20 08:10:57.473 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36019)
+    at i (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36159)
+    at t.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47264)
+    at t.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:37859)
+    at async p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20678)
+    at async K.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12660)
+2023-10-20 08:10:57.615 [info] Extension signature verification is not done: asvetliakov.vscode-neovim
+2023-10-20 08:10:57.645 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.9.1-universal: asvetliakov.vscode-neovim
+2023-10-20 08:10:57.647 [info] Renamed to /home/coean/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.9.1-universal
+2023-10-20 08:10:57.648 [info] Extracting extension completed. asvetliakov.vscode-neovim
+2023-10-20 08:10:57.653 [info] Extension installed successfully: asvetliakov.vscode-neovim
+2023-10-20 08:10:57.654 [info] Marked extension as uninstalled asvetliakov.vscode-neovim-0.6.1-universal
+2023-10-20 08:10:57.726 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36019)
+    at i (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36159)
+    at t.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47264)
+    at t.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:37859)
+    at async p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20678)
+    at async K.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12660)
+2023-10-20 08:11:05.556 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-10-20 08:11:05.790 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1697-linux-x64: rust-lang.rust-analyzer
+2023-10-20 08:11:05.793 [info] Renamed to /home/coean/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1697-linux-x64
+2023-10-20 08:11:05.794 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-10-20 08:11:05.801 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-10-20 08:11:05.803 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1657-linux-x64
+2023-10-20 08:11:05.875 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36019)
+    at i (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36159)
+    at t.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47264)
+    at t.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:37859)
+    at async p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20678)
+    at async K.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12660)
+2023-10-20 08:11:27.242 [info] Extension signature verification is not done: ionide.ionide-fsharp
+2023-10-20 08:11:27.969 [info] Extracted extension to file:///home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.15.1-universal: ionide.ionide-fsharp
+2023-10-20 08:11:27.981 [info] Renamed to /home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.15.1-universal
+2023-10-20 08:11:27.982 [info] Extracting extension completed. ionide.ionide-fsharp
+2023-10-20 08:11:27.989 [info] Extension installed successfully: ionide.ionide-fsharp
+2023-10-20 08:11:27.990 [info] Marked extension as uninstalled ionide.ionide-fsharp-7.12.0-universal
+2023-10-20 08:11:28.061 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/coean/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36019)
+    at i (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36159)
+    at t.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47264)
+    at t.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:37859)
+    at async p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20678)
+    at async K.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12660)

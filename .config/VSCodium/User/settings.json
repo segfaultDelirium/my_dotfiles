@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "keyboard.dispatch": "keyCode",
+    "haskell.manageHLS": "GHCup",
+    "window.zoomLevel": -1,
+    "git.enableSmartCommit": true
+}

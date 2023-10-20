@@ -1,0 +1,9 @@
+2023-09-16 19:39:35.919 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-16 19:39:36.350 [error] [Extension Host] (node:225518) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-09-16 19:39:39.036 [info] [perf] Render performance baseline is 22ms
+2023-09-16 19:40:31.976 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-17 07:31:00.144 [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:476:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

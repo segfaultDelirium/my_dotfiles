@@ -1,0 +1,19 @@
+2023-09-18 07:36:12.129 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-18 07:36:14.804 [info] [perf] Render performance baseline is 35ms
+2023-09-18 07:40:15.305 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-18 07:40:16.001 [error] [Extension Host] (node:395853) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-09-18 07:40:17.993 [info] [perf] Render performance baseline is 24ms
+2023-09-18 07:40:35.451 [error] [Extension Host] [LanguageService] Error starting F# language server: %% Error: Could not find 'dotnet'
+	at /home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.12.0-universal/fsharp.js:2:698425
+	at /home/coean/.vscode-oss/extensions/ionide.ionide-fsharp-7.12.0-universal/fsharp.js:2:698449
+	at async y._activate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7862)
+	at async y._waitForDepsThenActivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7804)
+	at async y._initialize (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7168)
+2023-09-18 07:40:35.451 [error] [Extension Host] [Main] Error activating FSAC: Error: Could not find 'dotnet'
+2023-09-18 07:40:35.462 [error] [Extension Host] [Main] Error loading projects: TypeError: Cannot read properties of null (reading 'Found')
+2023-09-18 07:41:45.071 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-18 07:41:50.657 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-18 07:41:51.257 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-18 07:41:51.782 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)
+2023-09-18 07:41:56.906 [info] [Ionide.Ionide-fsharp]: Command `fsharp.explorer.renameFile` already registered by Ionide for F# (Ionide.Ionide-fsharp)

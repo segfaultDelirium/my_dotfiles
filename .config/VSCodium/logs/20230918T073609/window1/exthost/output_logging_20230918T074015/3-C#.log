@@ -1,0 +1,10 @@
+Failed to find dotnet info from path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+Error running dotnet --info: Error: Command failed: dotnet --info
+/bin/sh: line 1: dotnet: command not found
+
+
+/bin/sh: line 1: dotnet: command not found
+
+Dotnet path: /home/coean/.config/VSCodium/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/7.0.11/dotnet
+Activating C# standalone...
+[Info  - 7:40:18 AM] [Program]Language server initialized

@@ -1,0 +1,44 @@
+2023-09-16 19:39:36.065 [info] Extension host with pid 225518 started
+2023-09-16 19:39:36.066 [info] Skipping acquiring lock for /home/coean/.config/VSCodium/User/workspaceStorage/4ddde4c8e25955b01e4b7dded0200d78.
+2023-09-16 19:39:36.108 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-16 19:39:36.109 [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2023-09-16 19:39:36.138 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-16 19:39:36.151 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-16 19:39:36.157 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2023-09-16 19:39:36.203 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: 'workspaceContains:**/*.{csproj,sln,slnf,csx,cake}', root cause: muhammad-sammy.csharp
+2023-09-16 19:39:36.274 [info] ExtensionService#_doActivateExtension Swellaby.vscode-rust-test-adapter, startup: true, activationEvent: '*'
+2023-09-16 19:39:36.276 [error] Activating extension Swellaby.vscode-rust-test-adapter failed due to an error:
+2023-09-16 19:39:36.276 [error] Error: Cannot find module '/home/coean/.vscode-oss/extensions/swellaby.vscode-rust-test-adapter-0.11.1-universal/src/main.js'
+Require stack:
+- /usr/share/vscodium/resources/app/out/vs/loader.js
+- /usr/share/vscodium/resources/app/out/bootstrap-amd.js
+- /usr/share/vscodium/resources/app/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+	at o._resolveFilename (node:electron/js2c/utility_init:2:3040)
+	at Module._load (node:internal/modules/cjs/loader:927:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at c._load (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:6970)
+	at m._load (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:35694)
+	at I._load (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:24572)
+	at Module.require (node:internal/modules/cjs/loader:1148:19)
+	at require (node:internal/modules/cjs/helpers:110:18)
+	at Function.i [as __$__nodeRequire] (/usr/share/vscodium/resources/app/out/vs/loader.js:5:98)
+	at n._loadCommonJSModule (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:37321)
+	at async Promise.all (index 0)
+2023-09-16 19:39:36.276 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-16 19:39:36.310 [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: true, activationEvent: 'workspaceContains:**/*.{csproj,sln,slnf,csx,cake}'
+2023-09-16 19:39:46.134 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-16 19:39:46.135 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-16 19:39:46.936 [info] ExtensionService#_doActivateExtension Ionide.Ionide-fsharp, startup: true, activationEvent: 'workspaceContains:**/*.fs,**/*.fsproj,**/*.fsx,**/*.sln'
+2023-09-16 19:39:48.646 [warning] [Ionide.Ionide-fsharp] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[fsharp]', provide the URI of a resource or 'null' for any resource.
+2023-09-16 19:39:48.653 [info] Eager extensions activated
+2023-09-16 19:39:55.597 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-16 19:39:55.618 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-16 19:39:55.654 [warning] [Ionide.Ionide-fsharp] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[fsharp]', provide the URI of a resource or 'null' for any resource.
+2023-09-16 19:40:31.978 [warning] [Ionide.Ionide-fsharp] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[fsharp]', provide the URI of a resource or 'null' for any resource.
+2023-09-16 19:40:46.382 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-09-16 19:40:46.393 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-09-16 19:40:46.678 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-09-18 06:51:15.704 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-18 06:51:15.882 [info] Extension host with pid 225518 exiting with code 0

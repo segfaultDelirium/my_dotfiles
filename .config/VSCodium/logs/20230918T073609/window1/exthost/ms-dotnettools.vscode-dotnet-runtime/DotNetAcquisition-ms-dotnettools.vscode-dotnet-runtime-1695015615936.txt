@@ -1,0 +1,19 @@
+9/18/2023, 7:40:16 AM DotnetAcquisitionStatusRequested
+7.0
+390da8ca1cfee2ea2a23052cccf398a432a2e6f0021a8a548672fa7588875248
+
+9/18/2023, 7:40:16 AM WebRequestSent
+https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
+
+9/18/2023, 7:40:17 AM DotnetVersionResolutionCompleted
+7.0
+7.0.11
+
+9/18/2023, 7:40:17 AM DotnetAcquisitionStatusResolved
+7.0.11
+
+9/18/2023, 7:40:17 AM DotnetCommandSucceeded
+acquireRuntimeStatus
+
+9/18/2023, 7:40:17 AM DotnetCommandSucceeded
+ensureDependencies

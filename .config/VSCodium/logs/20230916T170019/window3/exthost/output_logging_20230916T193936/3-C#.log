@@ -1,0 +1,15 @@
+Installing C# dependencies...
+Platform: linux, x86_64, name=manjaro, version=unknown
+
+Downloading package 'Razor Language Server (Linux / x64)' (50101 KB).................... Done!
+Validating download...
+Integrity Check succeeded.
+Installing package 'Razor Language Server (Linux / x64)'
+
+Finished
+
+Failed to find dotnet info from path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+Could not find extension target platform in /home/coean/.vscode-oss/extensions/muhammad-sammy.csharp-2.0.436-universal/.vsixmanifest
+Dotnet path: /home/coean/.config/VSCodium/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/7.0.11/dotnet
+Activating C# standalone...
+[Info  - 7:40:04 PM] [Program]Language server initialized
